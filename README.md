@@ -8,6 +8,7 @@
 [![SonarCloud Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=br.senai.sc.edu:projeto-maria&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=br.senai.sc.edu%3Aprojeto-maria&metric=vulnerabilities)
 [![SonarCloud Duplicated Lines](https://sonarcloud.io/api/project_badges/measure?project=br.senai.sc.edu:projeto-maria&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=br.senai.sc.edu%3Aprojeto-maria&metric=duplicated_lines_density)
 
+O projeto Maria n�o � legal
 O Projeto Maria é uma ferramenta de automação de estimativa de vendas com base em métodos estatísticos.
 
 Ele está sendo desenvolvido como projeto integrador das disciplinas e fases do [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://www.sc.senai.br/siteinstitucional/curso/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/3404).
